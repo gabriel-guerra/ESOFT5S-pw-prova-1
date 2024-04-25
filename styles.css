@@ -45,9 +45,14 @@ ul{
     margin: 20px 0px;
 }
 
+#ul-estados li{
+    font-weight: normal;
+    margin: 15px;
+}
+
 li{
     margin: 10px;
-    font-weight:bolder;
+    font-weight:bold;
 }
 
 a{
